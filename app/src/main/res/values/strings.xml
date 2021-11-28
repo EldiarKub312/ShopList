@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ShopList</string>
+    <string name="Text">text</string>
+    <string name="save">save</string>
+    <string name="todo">TODO</string>
+    <string name="pr">Привет</string>
+</resources>
